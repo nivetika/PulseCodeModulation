@@ -143,7 +143,7 @@ plt.show()
 # Output Waveform
 
 ## Pulse Code Modulation
-<img width="723" height="803" alt="image" src="https://github.com/user-attachments/assets/63f22212-a1be-4f03-8c60-a0929f6baf6e" />
+<img width="716" height="804" alt="image" src="https://github.com/user-attachments/assets/5b7b1786-ab0a-4c10-aaae-6949e24baabb" />
 
 ## Delta Modulation
 <img width="1353" height="664" alt="image" src="https://github.com/user-attachments/assets/f9cb44be-9cfa-4da8-87f9-11d32b1e5fa2" />
